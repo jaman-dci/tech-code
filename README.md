@@ -37,7 +37,7 @@ This is normal text.
 
 [License](#License)
 
-![Picture of a car](https://hips.hearstapps.com/hmg-prod/images/dw-burnett-pcoty22-8260-1671143390.?crop=0.668xw:1.00xh;0.184xw,0&resize=640:*)
+![Picture of a car](https://hips.hearstapps.com/hmg-prod/images/dw-burnett-pcoty22-8260-1671143390.jpg?crop=0.668xw:1.00xh;0.184xw,0&resize=640:*)
 
 
 > This is `code` block.\
