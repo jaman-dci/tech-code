@@ -11,7 +11,7 @@
 
 *This is italic text.*
 
-This is bold text.
+This is normal text.
 
 **This is bold text.**
 
